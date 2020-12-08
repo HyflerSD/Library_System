@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryApp.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryApp.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Book.hpp" Name="FileName"/>
+      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="25" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="30"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Book.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="12" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Library.cpp" Name="FileName"/>
+      <int Value="56" Name="FirstVisibleLine"/>
+      <int Value="83" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks">
+        <wxString Value="201:3"/>
+      </wxArrayString>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="11"/>
+        <IntVectorItem Value="26"/>
+        <IntVectorItem Value="70"/>
+        <IntVectorItem Value="237"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Inventory.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Inventory.cpp" Name="FileName"/>
+      <int Value="51" Name="FirstVisibleLine"/>
+      <int Value="77" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/CheckInOrOutResult.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="2" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Role.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/User.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/User.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="8" Name="Count"/>
+    <SerializedObject Name="Breakpoint0">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Inventory.cpp" Name="file"/>
+      <int Value="62" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint1">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Inventory.cpp" Name="file"/>
+      <int Value="72" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint2">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Inventory.cpp" Name="file"/>
+      <int Value="86" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint3">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Library.cpp" Name="file"/>
+      <int Value="119" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint4">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Library.cpp" Name="file"/>
+      <int Value="166" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint5">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Role.hpp" Name="file"/>
+      <int Value="10" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint6">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/Role.hpp" Name="file"/>
+      <int Value="7" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint7">
+      <wxString Value="/Users/michaeljean/Documents/Projects/CplusPlus/cop1334/LibraryApp/LibraryAppProject/User.hpp" Name="file"/>
+      <int Value="1" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
